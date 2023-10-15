@@ -7,6 +7,8 @@
 </p>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://github.com/Cebelle1/Cebelle1/assets/84433822/306d0deb-51cd-45b5-841e-f2a6d0f5fb75" />
+![giphy]()
 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
