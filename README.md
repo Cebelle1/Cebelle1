@@ -1,6 +1,6 @@
 # Hi there, I'm Cebelle👋
 
-## I'm a Computer Engineering Student
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Cebelle;2nd+Year+Computer+Engineering+Student"></a>
