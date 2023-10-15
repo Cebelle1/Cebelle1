@@ -5,8 +5,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Cebelle;2nd+Year+Computer+Engineering+Student"></a>
 </p>
-<iframe src="https://giphy.com/embed/NbhiwA0C8THIv8KvG5" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="">via GIPHY</a></p>
-<img align="right" alt="GIF" height="160px" src="https://giphy.com/gifs/Felini-cats-keyboard-typing-NbhiwA0C8THIv8KvG5.gif" />
+
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
