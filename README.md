@@ -13,9 +13,16 @@
 - 🔭 I’m currently a studying in Year 2, Computer Engineering @ Nanyang Technological University
 - 🌱 I’m currently learning Microprocessor System & Algorithm Analysis
 - 💪🏼 Future Goals: I'm interested in TinyML and will be specicializing in it.
-- ⚡ Do check out this [project](https://ieeexplore.ieee.org/abstract/document/10241603) I was a part of! 
 
 ---
+
+**Check Out My Co-authored Project and Research Paper** 📚
+
+I've had the privilege to work as a co-author on this project, and we've published a research paper on it. If you're interested in our work, feel free to explore the project and access the paper to learn more.
+
+[Therapeutic Pet Robot SParkle]([link-to-your-project](https://www.straitstimes.com/singapore/rah-rah-for-elderly-in-rehabilitation-with-this-pet-robot-dog))
+
+[Research Paper on IEEE Xplore]([link-to-your-paper](https://ieeexplore.ieee.org/abstract/document/10241603))
 
 
 <br>
