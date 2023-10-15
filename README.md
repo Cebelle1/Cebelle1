@@ -21,7 +21,7 @@
 **Check Out My Co-authored Project and Research Paper** 📚
 
 I've had the privilege to work as a co-author on this project, and we've published a research paper on it. If you're interested in our work, feel free to explore the project and access the paper to learn more.
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 
 [Therapeutic Pet Robot SParkle](https://www.straitstimes.com/singapore/rah-rah-for-elderly-in-rehabilitation-with-this-pet-robot-dog)
 
@@ -32,7 +32,7 @@ I've had the privilege to work as a co-author on this project, and we've publish
 <h2 align="center">Feel free to reach out using the links below. Thanks for visiting!</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/loosihui/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
+  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cebelle1&theme=blue-green">
