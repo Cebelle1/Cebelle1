@@ -2,6 +2,7 @@
 
 ## I'm a Computer Engineering Student
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 🔭 I’m currently a studying in Year 2, Computer Engineering @ Nanyang Technological University
 - 🌱 I’m currently learning Microprocessor System & Algorithm Analysis
@@ -9,7 +10,6 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 <br>
 <h2 align="center">Feel free to reach out using the links below. Thanks for visiting!</h2>
