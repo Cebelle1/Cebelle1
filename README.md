@@ -6,9 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Cebelle;2nd+Year+Computer+Engineering+Student"></a>
 </p>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <img align="right" alt="GIF" height="160px" src="https://github.com/Cebelle1/Cebelle1/assets/84433822/306d0deb-51cd-45b5-841e-f2a6d0f5fb75" />
-![giphy]()
 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -23,6 +21,7 @@
 **Check Out My Co-authored Project and Research Paper** 📚
 
 I've had the privilege to work as a co-author on this project, and we've published a research paper on it. If you're interested in our work, feel free to explore the project and access the paper to learn more.
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 [Therapeutic Pet Robot SParkle](https://www.straitstimes.com/singapore/rah-rah-for-elderly-in-rehabilitation-with-this-pet-robot-dog)
 
