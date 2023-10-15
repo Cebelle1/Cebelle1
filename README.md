@@ -3,13 +3,17 @@
 ## I'm a Computer Engineering Student
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there,+I'm+Cebelle+&hearts|Currently+a+Y2+Computer+Engineering+Student..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there,+I'm+Cebelle+&hearts;Currently+a+Y2+Computer+Engineering+Student..<3"></a>
 </p>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - 🔭 I’m currently a studying in Year 2, Computer Engineering @ Nanyang Technological University
 - 🌱 I’m currently learning Microprocessor System & Algorithm Analysis
 - 💪🏼 Future Goals: I'm interested in TinyML and will be specicializing in it.
+- ⚡ Do check out this [project](https://ieeexplore.ieee.org/abstract/document/10241603) I was a part of! 
 
 ---
 
