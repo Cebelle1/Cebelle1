@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently a studying in Year 2, Computer Engineering @ Nanyang Technological University
 - 🌱 I’m currently learning Microprocessor System & Algorithm Analysis
-- 💪🏼 Future Goals: I'm interested in TinyML and will be specicializing in it.
+- 💪🏼 Future Goals: I'm interested in TinyML and will be specializing in it.
 
 ---
 
