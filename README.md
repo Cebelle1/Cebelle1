@@ -3,7 +3,7 @@
 ## I'm a Computer Engineering Student
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there,+I'm+Cebelle+&hearts;Currently+a+Y2+Computer+Engineering+Student..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there+I'm+Cebelle+&hearts;Currently+a+Y2+Computer+Engineering+Student..<3"></a>
 </p>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -20,9 +20,9 @@
 
 I've had the privilege to work as a co-author on this project, and we've published a research paper on it. If you're interested in our work, feel free to explore the project and access the paper to learn more.
 
-[Therapeutic Pet Robot SParkle]([link-to-your-project](https://www.straitstimes.com/singapore/rah-rah-for-elderly-in-rehabilitation-with-this-pet-robot-dog))
+[Therapeutic Pet Robot SParkle](https://www.straitstimes.com/singapore/rah-rah-for-elderly-in-rehabilitation-with-this-pet-robot-dog)
 
-[Research Paper on IEEE Xplore]([link-to-your-paper](https://ieeexplore.ieee.org/abstract/document/10241603))
+[Research Paper on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10241603)
 
 
 <br>
