@@ -3,7 +3,7 @@
 ## I'm a Computer Engineering Student
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="(https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Cebelle;2nd+Year+Computer+Engineering+Student)](https://git.io/typing-svg)"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Cebelle;2nd+Year+Computer+Engineering+Student"></a>
 </p>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
