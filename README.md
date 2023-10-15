@@ -1,10 +1,16 @@
-### Hi there 👋
+# Hi there, I'm Cebelle👋
+
+## I'm a Computer Engineering Student
 
 
-
-- 🔭 I’m currently a Computer Engineering student @ Nanyang Technological University
+- 🔭 I’m currently a studying in Year 2, Computer Engineering @ Nanyang Technological University
 - 🌱 I’m currently learning Microprocessor System & Algorithm Analysis
-- ⚡ I'm interested in TinyML and will be specicializing in it.
+- 💪🏼 Future Goals: I'm interested in TinyML and will be specicializing in it.
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 <br>
 <h2 align="center">Feel free to reach out using the links below. Thanks for visiting!</h2>
 <p align="center">
