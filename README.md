@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Cebelle;2nd+Year+Computer+Engineering+Student"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Cebelle;2nd+Yr+Computer+Engineering+Student.."></a>
 </p>
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/Cebelle1/Cebelle1/assets/84433822/306d0deb-51cd-45b5-841e-f2a6d0f5fb75" />
