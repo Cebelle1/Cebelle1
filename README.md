@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Cebelle;3rd+Yr+Computer+Engineering+Student.."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Cebelle;4th+Yr+Computer+Engineering+Student.."></a>
 </p>
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/Cebelle1/Cebelle1/assets/84433822/306d0deb-51cd-45b5-841e-f2a6d0f5fb75" />
@@ -11,7 +11,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🔭 I’m currently a Year 2, Computer Engineering Student @ Nanyang Technological University
+- 🔭 I’m currently a Year 4, Computer Engineering Student @ Nanyang Technological University
 - ⚡ Fun Fact: I like cats
 
 ---
