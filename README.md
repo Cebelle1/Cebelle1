@@ -1,4 +1,4 @@
-# Hi there, I'm Si Hui! 👋
+# Hi there, I'm Cebelle! 👋
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Final-Year+Computer+Engineering+Student;Backend+%26+DevOps+Enthusiast;IoT+Systems+Builder"></a>
@@ -27,24 +27,9 @@
 **Tools & Platforms:** `Git` `Linux` `FastAPI` `React` `STM32` `ESP32` `NGINX` `Elastic Stack (ELK)`
 
 ---
+**Check Out My Co-authored Project and Research Paper** 📚
 
-## 🚀 Featured Projects
-
-### 🤖 PEAR System (Final Year Project)
-- Developed **FastAPI microservices** with MS SQL database integration.
-- **Containerized with Docker** and deployed on **Kubernetes** clusters.
-- Implemented **CI/CD pipelines with GitHub Actions** and managed **Nginx ingress** for routing.
-- Established **centralized logging** using **Filebeat & ELK Stack**.
-
-### 🌉 DECADA - Nation-wide IoT Platform (GovTech Internship)
-- Contributed to a large-scale IoT platform handling live data via **AWS Greengrass**.
-- Automated system maintenance using **Bash scripts** and **AWS SSM**.
-- Managed **Infrastructure as Code (IaC)** using **Terraform** and **Ansible**.
-
-### 🏆 Therapeutic Pet Robot - SParkle
-- **Co-authored an IEEE-published paper** on an engaging rehabilitation robot.
-- Developed **OTA updates for ESP32** and designed a sensor data pipeline with **Google Sheets**.
-- 🥇 **Awarded Gold** in the National ARTSiC Competition.
+I've had the privilege to work as a co-author on this project, and we've published a research paper on it. If you're interested in our work, feel free to explore the project and access the paper to learn more.
 
 [![Research Paper on IEEE Xplore](https://img.shields.io/badge/IEEE-Published-orange?style=for-the-badge&logo=ieee)](https://ieeexplore.ieee.org/abstract/document/10241603)
 
