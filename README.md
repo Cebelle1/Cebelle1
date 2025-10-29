@@ -9,10 +9,10 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 
 - 🔭 I’m a final-year Computer Engineering student at **Nanyang Technological University (NTU)**
-- 💼 Open to **Software Engineering (Backend/DevOps)** roles starting **February 2026**
+- 💼 Passionate in **Software Engineering (Backend/DevOps/IoT)**
 - 🌱 Currently exploring **Distributed Systems & Cloud-Native Technologies**
 - 🛠️ Passionate about building **scalable backend services, reliable infrastructure, and maintainable code**
-- ⚡ Fun fact: I like cats and enjoy bringing hardware and software together in IoT projects.
+- ⚡ Fun fact: I like cats
 
 ---
 
