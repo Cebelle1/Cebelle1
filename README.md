@@ -24,7 +24,7 @@
 `Docker` `Kubernetes` `Terraform` `Ansible` `GitLab CI/CD` `GitHub Actions`
 `AWS` (`Lambda`, `Greengrass`, `DynamoDB`, `S3`, `SSM`)
 
-**Tools & Platforms:** `Git` `Linux` `FastAPI` `React` `STM32` `ESP32` `NGINX` `Elastic Stack (ELK)`
+**Tools & Platforms:** `Git` `Linux` `FastAPI` `NGINX`
 
 ---
 **Check Out My Co-authored Project and Research Paper** 📚
