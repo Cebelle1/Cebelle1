@@ -1,14 +1,14 @@
 # Hi there, I'm Cebelle! 👋
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Final-Year+Computer+Engineering+Student;Backend+%26+DevOps+Enthusiast;IoT+Systems+Builder"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineer+Graduate;Backend+%26+DevOps+Enthusiast;IoT+Systems+Builder"></a>
 </p>
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/Cebelle1/Cebelle1/assets/84433822/306d0deb-51cd-45b5-841e-f2a6d0f5fb75" />
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 
-- 🔭 I’m a final-year Computer Engineering student at **Nanyang Technological University (NTU)**
+- 🔭 I’m a Computer Engineer graduate from **Nanyang Technological University (NTU)**
 - 💼 Passionate in **Software Engineering (Backend/DevOps/IoT)**
 - 🌱 Currently exploring **Distributed Systems & Cloud-Native Technologies**
 - 🛠️ Passionate about building **scalable backend services, reliable infrastructure, and maintainable code**
